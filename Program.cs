@@ -8,7 +8,7 @@ namespace RandomNumberExample
         {
             Random rand = new Random();
 
-            int randomNumber = rand.Next(101);
+            int randomNumber = rand.Next(200);
 
             if (randomNumber > 50) {
                 System.Console.WriteLine($"{randomNumber} is greater than 50");
