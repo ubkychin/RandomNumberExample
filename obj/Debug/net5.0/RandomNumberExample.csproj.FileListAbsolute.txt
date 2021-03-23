@@ -1,0 +1,16 @@
+C:\Users\anguyen\Projects\RandomNumberExample\bin\Debug\net5.0\RandomNumberExample.exe
+C:\Users\anguyen\Projects\RandomNumberExample\bin\Debug\net5.0\RandomNumberExample.deps.json
+C:\Users\anguyen\Projects\RandomNumberExample\bin\Debug\net5.0\RandomNumberExample.runtimeconfig.json
+C:\Users\anguyen\Projects\RandomNumberExample\bin\Debug\net5.0\RandomNumberExample.runtimeconfig.dev.json
+C:\Users\anguyen\Projects\RandomNumberExample\bin\Debug\net5.0\RandomNumberExample.dll
+C:\Users\anguyen\Projects\RandomNumberExample\bin\Debug\net5.0\ref\RandomNumberExample.dll
+C:\Users\anguyen\Projects\RandomNumberExample\bin\Debug\net5.0\RandomNumberExample.pdb
+C:\Users\anguyen\Projects\RandomNumberExample\obj\Debug\net5.0\RandomNumberExample.csprojAssemblyReference.cache
+C:\Users\anguyen\Projects\RandomNumberExample\obj\Debug\net5.0\RandomNumberExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anguyen\Projects\RandomNumberExample\obj\Debug\net5.0\RandomNumberExample.AssemblyInfoInputs.cache
+C:\Users\anguyen\Projects\RandomNumberExample\obj\Debug\net5.0\RandomNumberExample.AssemblyInfo.cs
+C:\Users\anguyen\Projects\RandomNumberExample\obj\Debug\net5.0\RandomNumberExample.csproj.CoreCompileInputs.cache
+C:\Users\anguyen\Projects\RandomNumberExample\obj\Debug\net5.0\RandomNumberExample.dll
+C:\Users\anguyen\Projects\RandomNumberExample\obj\Debug\net5.0\ref\RandomNumberExample.dll
+C:\Users\anguyen\Projects\RandomNumberExample\obj\Debug\net5.0\RandomNumberExample.pdb
+C:\Users\anguyen\Projects\RandomNumberExample\obj\Debug\net5.0\RandomNumberExample.genruntimeconfig.cache
